@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body1 {
+    background-image: url(/fondo.jpg);
+}
+
+.form-registro {
+    width: 700px;
+    background: #2c2f33;
+    padding: 70px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 10px;
+    font-family: 'arial';
+    color: white;
+}
+
+.form-registro h4 {
+    font-size: 30px;
+    margin-top: -50px;
+    margin-bottom:40px;
+    text-align: center;
+}
+
+.labels {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.label1 {
+    width: 100%;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+
+.input1 {
+    width: 100%;
+    background: #23272a;
+    padding: 9px;
+    margin-top: 6px;
+    margin-bottom: 30px;
+    border: 1px;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.input2 {
+    width: 100%;
+    background: #23272a;
+    padding: 9px;
+    margin-top: 6px;
+    margin-bottom: 30px;
+    border: 1px;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.input3 {
+    width: 100%;
+    background: #23272a;
+    padding: 9px;
+    margin-top: 6px;
+    margin-bottom: 30px;
+    border: 1px;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.input4 {
+    width: 100%;
+    background: #23272a;
+    padding: 9px;
+    margin-top: 6px;
+    margin-bottom: 20px;
+    border: 1px;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.input5 {
+    width: 28%;
+    background: #23272a;
+    padding: 5px;
+    margin-top: 6px;
+    margin-bottom: 18px;
+    margin-left: 5px;
+    border: 1px;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.label2 {
+    font-size: 14px;
+}
+
+.boton {
+    padding: 9px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    border-color: #7289da;
+    background-color: #7289da;
+    font-size: 19px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
